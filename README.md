@@ -20,8 +20,7 @@ This is a simple portable mobile charging system that runs completely on solar e
 
 🧠 Workflow Diagram
 
-![Solar Charging Workflow](./assets/workflow.jpeg)
-
+assets/Workflow.jpg
 
  ✅ Status
 
